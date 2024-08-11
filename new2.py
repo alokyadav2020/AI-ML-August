@@ -1,0 +1,2 @@
+a='alok'
+print(a)
